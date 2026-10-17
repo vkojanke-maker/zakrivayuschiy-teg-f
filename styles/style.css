@@ -328,3 +328,8 @@
   border-color: var(--accent-color);
 }
 
+.sparks {
+  opacity: 0;
+}
+
+
